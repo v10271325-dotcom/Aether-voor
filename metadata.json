@@ -1,0 +1,6 @@
+{
+  "name": "Aether AI Assistant",
+  "description": "An intelligent holographic Aether-style assistant with home automation, smart calendar ledger, and real-time web news and article analytics utilizing Gemini-powered intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
